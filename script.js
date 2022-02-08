@@ -169,6 +169,7 @@ const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 
 //----------------------------------------------------27
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 
 
 //----------------------------------------------------28
