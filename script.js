@@ -193,15 +193,30 @@ myStr += someAdjective
 
 
 //----------------------------------------------------32
+et lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+
+
 
 
 //----------------------------------------------------33
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+firstLetterOfLastName = lastName[0];
 
 
 //----------------------------------------------------34
+let myStr = "Jello World";
+myStr = "Hello World";
+
 
 
 //----------------------------------------------------35
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2];
 
 
 //----------------------------------------------------36
