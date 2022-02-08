@@ -187,6 +187,9 @@ const myStr = "My name is and" + myName + "I am well!";
 
 
 //----------------------------------------------------31
+const someAdjective = "rustam";
+let myStr = "Learning to code is ";
+myStr += someAdjective
 
 
 //----------------------------------------------------32
