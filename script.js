@@ -182,6 +182,8 @@ myStr += "This is the second sentence."
 
 
 //----------------------------------------------------30
+const myName = "Rustam";
+const myStr = "My name is and" + myName + "I am well!";
 
 
 //----------------------------------------------------31
