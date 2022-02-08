@@ -220,21 +220,34 @@ const thirdLetterOfLastName = lastName[2];
 
 
 //----------------------------------------------------36
+const lastName = "Lovelace";
+const lastLetterOfLastName = lastName[lastName.length - 1];
 
 
 //----------------------------------------------------37
+const lastName = "Lovelace";
+const secondToLastLetterOfLastName = lastName[lastName.length - 2];
 
 
 //----------------------------------------------------38
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb;
 
 
 //----------------------------------------------------39
-
+const myArray = ["rus", 2];
 
 //----------------------------------------------------40
-
+const myArray = [[1, 2], [3, 4]];
 
 //----------------------------------------------------41
+const myArray = [50, 60, 70];
+const myData = myArray[0]
+
 
 
 //----------------------------------------------------42
